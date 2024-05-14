@@ -8,9 +8,5 @@ import org.springframework.test.context.ActiveProfiles;
 @ActiveProfiles("test")
 class TestingOpenSourceApplicationTests {
 
-	@Test
-	void testing() {
-		System.out.println("test");
-	}
 
 }
